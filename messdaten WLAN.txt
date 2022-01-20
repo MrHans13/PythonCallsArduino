@@ -1,0 +1,29 @@
+*****************************************
+***   Programm wurde neu gestartet.   ***
+*****************************************
+***** Statusdaten ESP8266 *****
+letzter Neustart der App: Thu Jan 13 10:53:50 2022
+App-Messung Nr. 1         Thu Jan 13 10:53:50 2022
+ESP8266-Messung Nr. 7
+IP-Address: 192.168.43.228
+
+Led Status:	1
+
+Tasterstaten:
+Taster 1: 0	Taster 2: 0	Taster 3: 0	Taster 4: 0
+
+relStaten:
+Relais 1: 1	Relais 2: 1	Relais 3: 1
+
+Steckdosenstaten:
+Steckdose 1 ist aus
+Steckdose 2 ist aus
+Steckdose 3 ist aus
+
+Sensorwerte:
+Taster 1:	0	Sensor 1:	852
+Taster 2:	0	Sensor 2:	0
+Taster 3:	0	Sensor 3:	853
+Taster 4:	0	Sensor 4:	854
+
+---EoF---
